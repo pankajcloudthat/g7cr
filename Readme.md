@@ -1,5 +1,9 @@
 ## G&CR DP-600 Microsoft Fabric Training
 
+
+Learner Survey Link:
+https://forms.office.com/r/LbpmThSTSp
+
 Redeeming URL :- https://cloudthat.learnondemand.net/Class/650637
 
 MS Learn Profile:
