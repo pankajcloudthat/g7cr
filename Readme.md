@@ -15,3 +15,8 @@ Achievement Code URL: - https://learn.microsoft.com/en-us/users/me/achievements?
 Redeeming URL :- https://cloudthat.learnondemand.net/Class/650637
 
 Training Key: D6C3CAD376E84AED
+
+
+## Lab: Links
+
+#### Lab 2: [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
