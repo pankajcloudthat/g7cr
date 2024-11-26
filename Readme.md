@@ -17,6 +17,14 @@ Redeeming URL :- https://cloudthat.learnondemand.net/Class/650637
 Training Key: D6C3CAD376E84AED
 
 
+## Test Prep Platform
+https://testprep.cloudthat.com/course/view.php?id=2312
+
+Course name  DP-600 Training Nov 25 - 29,2024
+
+Enrolment key: N4W6yk5Cgw
+
+
 ## Lab: Links
 
 #### Lab 2: [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
