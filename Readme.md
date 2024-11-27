@@ -1,4 +1,4 @@
-## G&CR DP-600 Microsoft Fabric Training
+## G7CR DP-600 Microsoft Fabric Training
 
 
 Learner Survey Link:
