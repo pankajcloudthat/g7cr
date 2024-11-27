@@ -32,3 +32,8 @@ Enrolment key: N4W6yk5Cgw
 ### Lab 6: [Ingest data with Spark and Microsoft Fabric notebooks](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/10-ingest-notebooks.html)
 
 ### Optional Lab: [Ingest data with Spark and Microsoft Fabric notebooks](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/19-secure-data-access.html)
+
+
+## Extra Lab
+
+### [End-to-end Tutorial with Data Pipeline and Data Flow Gen 2](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction)
