@@ -27,4 +27,8 @@ Enrolment key: N4W6yk5Cgw
 
 ## Lab: Links
 
-#### Lab 2: [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
+### Lab 2: [Analyze data with Apache Spark in Fabric](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html)
+
+### Lab 6: [Ingest data with Spark and Microsoft Fabric notebooks](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/10-ingest-notebooks.html)
+
+### Optional Lab: [Ingest data with Spark and Microsoft Fabric notebooks](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/19-secure-data-access.html)
