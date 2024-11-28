@@ -38,11 +38,10 @@ Enrolment key: N4W6yk5Cgw
 ## Home work Labs:
 ### Lab 7: [Create a medallion architecture in a Microsoft Fabric lakehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03b-medallion-lakehouse.html)
 ### Lab 8: [Analyze data in a data warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html)
-### Lab 15: [Use tools to optimize Power BI performance](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/16-use-tools-to-optimize-power-bi-performance.html)
-### Lab 16: [Enforce semantic model security](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/17-enforce-model-security.html)
-
+### Lab 13: [Create a star schema model](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/14-create-a-star-schema-model.html)
 
 ## Extra Labs
 ### Lab: [End-to-end Tutorial with Data Pipeline and Data Flow Gen 2](https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction)
 ### Lab: [Ingest data with Spark and Microsoft Fabric notebooks](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/19-secure-data-access.html)
-### Lab: [Lab 12: Secure a Microsoft Fabric data warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06d-secure-data-warehouse.html)
+### Lab: [Secure a Microsoft Fabric data warehouse](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06d-secure-data-warehouse.html)
+### Lab: [Monitor Fabric activity in the monitoring hub](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/18-monitor-hub.html)
