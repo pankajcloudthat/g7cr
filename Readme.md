@@ -1,5 +1,7 @@
 ## G7CR DP-600 Microsoft Fabric Training
 
+## Feedback Link: https://www.metricsthatmatter.com/url/u.aspx?C43963080216897502
+
 
 Learner Survey Link:
 https://forms.office.com/r/LbpmThSTSp
