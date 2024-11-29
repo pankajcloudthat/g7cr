@@ -12,19 +12,24 @@ Course URL: -  https://learn.microsoft.com/en-us/training/courses/dp-600t00?WT.m
 
 Achievement Code URL: - https://learn.microsoft.com/en-us/users/me/achievements?redeem=83RQ23&WT.mc_id=ilt_partner_webpage_wwl&ocid=4428289
 
-Redeeming URL :- https://cloudthat.learnondemand.net/Class/650637
-
-Training Key: D6C3CAD376E84AED
+**Lab Environment URL :-** https://cloudthat.learnondemand.net/Class/650637
 
 
-## Test Prep Platform
+
+
+## CloudThat TestPrep Platform for assessment
 https://testprep.cloudthat.com/course/view.php?id=2312
 
 Course name  DP-600 Training Nov 25 - 29,2024
-
 Enrolment key: N4W6yk5Cgw
 
 # Hands-on Lab
+
+# Implement data science and machine learning for AI in Microsoft Fabric
+## [Click here for labs](https://github.com/pankajcloudthat/g7cr/blob/main/mlinfabric.md)
+
+## [Click here for study materials](https://learn.microsoft.com/en-us/training/paths/implement-data-science-machine-learning-fabric/)
+
 
 ## Combined Labs
 
